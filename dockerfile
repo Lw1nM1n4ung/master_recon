@@ -1,5 +1,5 @@
 # Use the base image for the bug bounty
-FROM callmedemon/bug_bounty_tools
+FROM callmedemon/bounty_builded_tools
 
 # Set working directory to /root
 WORKDIR /root
